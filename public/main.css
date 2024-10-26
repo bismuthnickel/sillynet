@@ -1,0 +1,13 @@
+:root {
+    background-color: hotpink;
+    color: lime;
+    font-family:"Comic sans","Calibri","Arial","Helvetica",sans-serif;
+}
+
+#sillyconsole {
+    background-color: black;
+    color:lightgray;
+    width:480px;
+    height:360px;
+    text-size-adjust: auto;
+}
